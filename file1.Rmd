@@ -20,3 +20,14 @@ How about something else with x
 ```{r}
 mean(c(x, 10, 20, 30))
 ```
+
+```{r}
+cool <- function(x) {
+  print(x + " is a good number")
+}
+```
+
+do something
+```{r}
+cool(5)
+```
