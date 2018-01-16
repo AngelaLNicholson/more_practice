@@ -23,7 +23,7 @@ mean(c(x, 10, 20, 30))
 
 ```{r}
 cool <- function(x) {
-  print(x + " is a good number")
+  print(x)
 }
 ```
 
