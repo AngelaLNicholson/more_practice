@@ -16,3 +16,7 @@ Do something with x
 ```{r}
 x + 5
 ```
+How about something else with x
+```{r}
+mean(c(x, 10, 20, 30))
+```
